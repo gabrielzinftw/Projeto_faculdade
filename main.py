@@ -15,3 +15,6 @@ elif idade >= 70 and idade <= 110:
 elif idade >= 110: 
   print("morto")
 
+
+
+
